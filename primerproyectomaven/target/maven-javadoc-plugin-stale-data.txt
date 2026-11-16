@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'C:/Users/USUARIO/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/USUARIO/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'c:/Users/USUARIO/Desktop/practica-semana13/primerproyectomaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/USUARIO/Desktop/practica-semana13/primerproyectomaven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'primerproyectomaven 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'primerproyectomaven 1.0-SNAPSHOT API'
+com.javier
+C:\Users\USUARIO\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1794590437478
+C:\Users\USUARIO\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1794590437533
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\src\main\java = 1794589265089
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\allclasses-index.html = 1794848587835
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\allpackages-index.html = 1794848587840
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\copy.svg = 1794848587906
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\element-list = 1794848587745
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\help-doc.html = 1794848587885
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\index-all.html = 1794848587870
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\index.html = 1794848587879
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\link.svg = 1794848587909
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\member-search-index.js = 1794848587852
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\module-search-index.js = 1794848587843
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\overview-tree.html = 1794848587817
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\package-search-index.js = 1794848587846
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\script.js = 1794848587897
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\search-page.js = 1794848587918
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\search.html = 1794848587874
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\search.js = 1794848587915
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\stylesheet.css = 1794848587890
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\tag-search-index.js = 1794848587854
+c:\Users\USUARIO\Desktop\practica-semana13\primerproyectomaven\target\site\apidocs\type-search-index.js = 1794848587849
